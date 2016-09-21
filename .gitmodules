@@ -1,0 +1,3 @@
+[submodule "lmdb"]
+	path = lmdb
+	url = git@github.com:sunsided/lmdb.git
